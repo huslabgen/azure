@@ -1,4 +1,4 @@
-# azure
+# Azure
 NGS analysis toolkit
 
 ```ruby
